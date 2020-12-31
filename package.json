@@ -1,0 +1,27 @@
+{
+  "name": "chat-app-i",
+  "version": "1.0.0",
+  "description": "A chat app Express, Node, Websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timotheemcdonald/chat-app-i.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timotheemcdonald/chat-app-i/issues"
+  },
+  "homepage": "https://github.com/timotheemcdonald/chat-app-i#readme",
+  "dependencies": {
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
