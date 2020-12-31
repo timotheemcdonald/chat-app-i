@@ -1,2 +1,2 @@
 # chat-app-i
-A chat app using React, Express, Node
+A chat app Express, Node, Websockets
